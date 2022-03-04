@@ -1,2 +1,4 @@
-# javascript_books
-자바스크립트 뽀개기
+# conquer_JavaScript
+
+프론트엔드는 결국 자바스크립트로 시작해서 자바스크립트로 끝난다
+자바스크립트를 뽀개버리기 
