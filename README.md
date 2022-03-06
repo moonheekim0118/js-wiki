@@ -1,4 +1,4 @@
-# js-wiki
+# [js-wiki](https://github.com/moonheekim0118/js-wiki/issues)
 나만의 자바스크립트 위키 만들기 
 
 ### 참고서적
