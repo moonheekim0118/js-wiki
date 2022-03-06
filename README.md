@@ -1,5 +1,5 @@
 # [js-wiki](https://github.com/moonheekim0118/js-wiki/issues)
-저만의 자바스크립트 위키입니다. 
+여러가지 자바스크립트 책으로 만드는 자바스크립트 위키
 
 ### 참고서적
 - 모던 자바스크립트 Deep Dive / 이웅모 저
